@@ -18,3 +18,5 @@ And another line.
 And another line.And another line. And another line.
 And another line.And another line.
 
+This is the final commit to the master branch before branching into a test branch.
+
