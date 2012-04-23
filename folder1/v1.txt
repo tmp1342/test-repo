@@ -8,11 +8,12 @@ And another line.
 And another line.And another line.
 And another line.
 And another line.And another line.
-Now I am adding this line for v2, commit A.
+Now I am adding this line for v2, commit B.
 And another line.
 And another line.And another line. And another line.
 And another line.And another line.
 Now I am adding this line for v2, commit A.
+Now I am adding this line for v2, commit B.
 And another line.
 And another line.And another line. And another line.
 And another line.And another line.
